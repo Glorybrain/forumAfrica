@@ -890,7 +890,7 @@
 	white-space: nowrap;
 }
 .v-main-footer .v-rating-subtext .v-icon {
-	color: var(--primary-clr);
+	color: #219653;
 	display: flex;
 }
 .v-main-footer .v-rating-subtext .v-icon svg {
