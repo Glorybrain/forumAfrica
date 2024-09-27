@@ -761,8 +761,8 @@
 	margin-left: -0.8rem;
 }
 .v-user-count .v-each:last-of-type {
-	background-color: var(--primary-clr);
-	color: var(--white);
+	background-color: var(--white);
+	color: #3D4F60;
 }
 .v-phone-image {
 	max-width: 20rem;
