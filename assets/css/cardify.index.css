@@ -365,9 +365,9 @@
 	width: max-content;
 	font-size: 0.9rem;
 }
-#v-animations .v-animated-content [href]:hover {
+/* #v-animations .v-animated-content [href]:hover {
 	background-color: rgba(var(--primary-clr-variant), 0.9);
-}
+} */
 #v-animations .v-animated-content .v-badge {
 	font-size: 0.8rem;
 	color: var(--primary-clr);
